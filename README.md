@@ -1,2 +1,51 @@
-# JAKWOE
-# JAKWOE Mobile Project (In Development process)  This project is application mobile that can order a ticket for Hiace or another public transports by online. so people do not need to queue up in the counter. like tiket.com but this have unique fiture. that is can share your location to take you in your location. so you do not need go anywhere, just wait the transport.
+# travel
+Aplikasi Pemesanan Tiket Travel Berbasis Web PHP
+
+Aplikasi Pemesanan Tiket Travel Berbasis Web PHP menggunakan PHP Javascrpt dan Bootstrap Admin LTE, dikerjakan berkelompok .
+Lihat kelompok https://lubnaabidah.github.io/team2travel.net/.
+
+
+#Install
+
+unduh dan ekstrak ke localhost
+buat database dengan nama db_tiket2
+atur konfigurasi database pada file isi/konekisi/koneksi.php
+buka aplikasi di browser
+login menggunakan akun default ini:
+
+User
+email: doni@localhost
+password: 123
+
+Admin
+email :	
+test@localhost
+password :
+qwerty123
+
+Operator Loket
+email : operatortiket@localhost
+password : qwerty
+
+
+#Install
+
+download and extract to your localhost
+create a database named db_tiket2
+set database configuration in isi/konekisi/koneksi.php
+open in browser
+use this default account to login
+
+User
+email: doni@localhost
+password: 123
+
+Admin
+email :	
+test@localhost
+password :
+qwerty123
+
+Operator Loket
+email : operatortiket@localhost
+password : qwerty
